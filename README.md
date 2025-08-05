@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Universidade Veiga de Almeida (UVA).
+Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação.
 
 ---
 
