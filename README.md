@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Ciência da Computação. Aqui no meu perfil você encontrará diversos projetos frontend com HTML, CSS e JavaScript, criados por mim e com inspiração de diversos cursos de programação que já fiz. Sinta-se livre para se aventurar por aqui e aprender mais um pouco sobre Desenvolvimeto Web.
+Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Ciência da Computação. Aqui no meu perfil do Github, você encontrará diversos Projetos Frontend com HTML, CSS e JavaScript, criados por mim e com inspiração de diversos cursos de programação que já fiz. Sinta-se livre para se aventurar por aqui e aprender mais um pouco sobre Desenvolvimeto Web.
 
 ---
 
