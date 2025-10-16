@@ -34,22 +34,6 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -63,23 +47,6 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/354380/spring-icon.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
 />
 
 <br/>
