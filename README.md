@@ -48,13 +48,3 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
 />
-<img 
-    align="left" 
-    alt="Linguagem C" 
-    title="Linguagem C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="http://www.w3.org/1999/xlink"
-/>
-
-<!--<svg viewBox="0 -0.5 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink-->
