@@ -48,26 +48,3 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thales02fs&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales02fs&theme=dark&layout=pie&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
