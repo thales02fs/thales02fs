@@ -12,7 +12,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/349402/html5.svg" 
 />
@@ -20,7 +20,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -28,7 +28,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -36,7 +36,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/184143/java.svg" 
 />
@@ -44,7 +44,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="Linguagem C" 
     title="Linguagem C"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
 />
@@ -52,7 +52,7 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
 />
