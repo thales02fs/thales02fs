@@ -48,3 +48,11 @@ Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. At
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+/>
