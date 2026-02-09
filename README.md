@@ -1,4 +1,4 @@
-# 😎 Thales Freitas
+# </ Thales Freitas> 
 
 **`Desenvolvedor de Software`**
 
