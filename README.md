@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Me chamo Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Ciência da Computação. Aqui no meu perfil do Github, você encontrará diversos Projetos Frontend com HTML, CSS e JavaScript, e Backend em Java, com inspiração de diversos cursos de programação que já fiz.
+Olá! Meu nome é Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Ciência da Computação. Aqui no meu perfil do Github, você encontrará diversos Projetos Frontend com HTML, CSS e JavaScript, e Backend em Java, com inspiração de diversos cursos de programação que já fiz.
 
 ---
 
