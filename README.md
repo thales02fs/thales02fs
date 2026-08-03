@@ -62,7 +62,7 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     title="Apache Maven"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/354051/maven.svg" 
+    src="https://www.svgrepo.com/show/373829/maven.svg" 
 />
 <img 
     align="left" 
