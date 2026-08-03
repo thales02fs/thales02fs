@@ -44,7 +44,7 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="40px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/303251/mysql-logo.svg" 
 />
