@@ -30,7 +30,7 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     title="Spring Boot"
     width="40px" 
     style="padding-right: 10px;" 
-    src="[https://www.svgrepo.com/svg/354380/spring-icon](https://www.svgrepo.com/svg/354380/spring-icon)" 
+    src="https://www.svgrepo.com/show/354380/spring-icon.svg" 
 />
 <img 
     align="left" 
