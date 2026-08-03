@@ -70,7 +70,7 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     title="Hibernate"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/svg/353874/hibernate" 
+    src="https://www.svgrepo.com/show/353874/hibernate.svg" 
 />
 <img 
     align="left" 
