@@ -50,6 +50,14 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/354200/postgresql.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
