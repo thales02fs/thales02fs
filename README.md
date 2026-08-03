@@ -1,13 +1,37 @@
 # </ Thales Freitas> 
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor e Analista de Sistemas`**
 
-Olá! Meu nome é Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou graduando em Ciência da Computação. Aqui no meu perfil do Github, você encontrará diversos Projetos Frontend com HTML, CSS e JavaScript, e Backend em Java, com inspiração de diversos cursos de programação que já fiz.
+Olá! Meu nome é Thales Freitas, tenho 26 anos e sou do Rio de Janeiro.
+
+Atualmente, curso Ciência da Computação e direciono meus estudos para o desenvolvimento Backend com Java e o ecossistema Spring.
+
+Neste GitHub você encontrará projetos desenvolvidos para colocar em prática conceitos de desenvolvimento de software, como APIs REST, autenticação com JWT, persistência de dados com JPA/Hibernate, bancos de dados relacionais e arquitetura em camadas.
+
+Também utilizo HTML, CSS, JavaScript, Thymeleaf e HTMX para construir interfaces que complementam meus projetos backend.
+
+Estou sempre buscando evoluir por meio de projetos práticos e aprender novas tecnologias voltadas ao desenvolvimento de aplicações escaláveis e bem estruturadas.
 
 ---
 
 ### 💻 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/184143/java.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/svg/354380/spring-icon" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -34,11 +58,11 @@ Olá! Meu nome é Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro.
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/184143/java.svg" 
+    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
 />
 <img 
     align="left" 
@@ -47,12 +71,4 @@ Olá! Meu nome é Thales Freitas, tenho 25 anos e sou natural do Rio de Janeiro.
     width="40px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/396893/letter-c.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
 />
