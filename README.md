@@ -6,9 +6,7 @@ Olá! Meu nome é Thales Freitas, tenho 26 anos e sou natural do Rio de Janeiro.
 
 Atualmente, curso Ciência da Computação e direciono meus estudos para o desenvolvimento Backend com Java e o ecossistema Spring.
 
-Neste GitHub você encontrará projetos desenvolvidos para colocar em prática conceitos de desenvolvimento de software, como APIs REST, autenticação com JWT, persistência de dados com JPA/Hibernate, bancos de dados relacionais e arquitetura em camadas.
-
-Também utilizo HTML, CSS, JavaScript, Thymeleaf e HTMX para construir interfaces que complementam meus projetos backend.
+No meu GitHub você encontrará projetos desenvolvidos para colocar em prática conceitos de desenvolvimento de software, como APIs REST, autenticação com JWT, persistência de dados, bancos de dados relacionais e arquitetura em camadas.
 
 Estou sempre buscando evoluir por meio de projetos práticos e aprender novas tecnologias voltadas ao desenvolvimento de aplicações escaláveis e bem estruturadas.
 
@@ -55,22 +53,6 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     width="40px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354200/postgresql.svg" 
-/>
-<img 
-    align="left" 
-    alt="Apache Maven" 
-    title="Apache Maven"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/373829/maven.svg" 
-/>
-<img 
-    align="left" 
-    alt="Hibernate" 
-    title="Hibernate"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/353874/hibernate.svg" 
 />
 <img 
     align="left" 
