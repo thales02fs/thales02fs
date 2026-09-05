@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e Analista de Sistemas`**
 
-Olá! Meu nome é Thales Freitas, tenho 26 anos e sou do Rio de Janeiro.
+Olá! Meu nome é Thales Freitas, tenho 26 anos e sou natural do Rio de Janeiro.
 
 Atualmente, curso Ciência da Computação e direciono meus estudos para o desenvolvimento Backend com Java e o ecossistema Spring.
 
