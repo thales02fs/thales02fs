@@ -40,11 +40,11 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="Django" 
     title="Django"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    src="[https://img.icons8.com/?size=100&id=13441&format=png&color=000000](https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-light-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-light-tal-revivo)"
 />
 <img 
     align="left" 
