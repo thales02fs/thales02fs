@@ -32,6 +32,22 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Django"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="[https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+/>
+<img 
+    align="left" 
     alt="Banco de Dados SQL" 
     title="Banco de Dados SQL"
     width="40px" 
@@ -77,20 +93,4 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
-/>
-<img 
-    align="left" 
-    alt="Linguagem C" 
-    title="Linguagem C"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/396893/letter-c.svg"
 />
