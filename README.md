@@ -24,14 +24,6 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/354380/spring-icon.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="40px" 
@@ -40,11 +32,11 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="40px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg"
+    src="https://www.svgrepo.com/show/354380/spring-icon.svg" 
 />
 <img 
     align="left" 
