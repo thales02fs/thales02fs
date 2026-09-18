@@ -44,7 +44,7 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
     title="Django"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/349341/django.svg" 
+    src="https://www.svgrepo.com/show/349341/djangoproject.svg" 
 />
 <img 
     align="left" 
