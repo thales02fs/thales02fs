@@ -40,6 +40,14 @@ Estou sempre buscando evoluir por meio de projetos práticos e aprender novas te
 />
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/349341/django.svg" 
+/>
+<img 
+    align="left" 
     alt="Banco de Dados SQL" 
     title="Banco de Dados SQL"
     width="40px" 
