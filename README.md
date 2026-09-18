@@ -4,9 +4,9 @@
 
 Olá! Meu nome é Thales Freitas, tenho 26 anos e sou natural do Rio de Janeiro.
 
-Atualmente, curso Ciência da Computação e direciono meus estudos para o desenvolvimento Backend com Java e o ecossistema Spring.
+Atualmente, curso Ciência da Computação e direciono meus estudos para o desenvolvimento Backend com Java e Python, utilizando os frameworks Spring Boot e Django. Também possuo conhecimentos básicos de frontend com HTML, CSS e JavaScript.
 
-No meu GitHub você encontrará projetos desenvolvidos para colocar em prática conceitos de desenvolvimento de software, como API, autenticação com JWT, persistência de dados, bancos de dados relacionais e arquitetura em camadas.
+No meu GitHub você encontrará projetos desenvolvidos para colocar em prática conceitos de desenvolvimento de software, frontend básico, API, autenticação com JWT, persistência de dados, bancos de dados relacionais e arquitetura em camadas.
 
 Estou sempre buscando evoluir por meio de projetos práticos e aprender novas tecnologias voltadas ao desenvolvimento de aplicações escaláveis e bem estruturadas.
 
