@@ -1,6 +1,6 @@
 # </ Thales Freitas> 
 
-**`Desenvolvedor e Analista de Sistemas`**
+**`Engenheiro de Software em formação`**
 
 Olá! Meu nome é Thales Freitas, tenho 26 anos e sou natural do Rio de Janeiro.
 
